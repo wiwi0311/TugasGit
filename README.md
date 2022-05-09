@@ -1,9 +1,1 @@
 # TugasGit
-git add
-git commit
-git push 
-git merge
-git pull
-git checkout
-git reset
-git revert
